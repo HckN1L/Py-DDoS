@@ -22,5 +22,7 @@ The developer is **not responsible** for any misuse. Use only in environments wh
    ```bash
    git clone https://github.com/yourusername/py-ddos.git
    cd py-ddos
-  1.  python3 py-ddos.py
-  2.  chmod +x py-ddos.py , ./ py-ddos.py
+  1. ```bash
+      python3 py-ddos.py
+  2.  ```bash
+      chmod +x py-ddos.py , ./ py-ddos.py
